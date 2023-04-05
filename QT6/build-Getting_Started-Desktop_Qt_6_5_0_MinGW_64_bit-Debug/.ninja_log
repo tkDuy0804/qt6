@@ -1,0 +1,16 @@
+# ninja log v5
+2	178	7024078766438777	Getting_Started_autogen/timestamp	852ca7d8077525b0
+2	178	7024078766438777	Getting_Started_autogen/mocs_compilation.cpp	852ca7d8077525b0
+2	178	7024078766438777	F:/OneDrive/02_Study/QT/QT6/build-Getting_Started-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/Getting_Started_autogen/timestamp	852ca7d8077525b0
+2	178	7024078766438777	F:/OneDrive/02_Study/QT/QT6/build-Getting_Started-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/Getting_Started_autogen/mocs_compilation.cpp	852ca7d8077525b0
+180	243	7024078767654713	CMakeFiles/Getting_Started.dir/Getting_Started_autogen/mocs_compilation.cpp.obj	b3a90ce1f88297c2
+184	1418	7024078779415394	CMakeFiles/Getting_Started.dir/main.cpp.obj	590e4696391945ed
+1420	1513	7024078780342282	Getting_Started.exe	a9da1d66b02ce31b
+4	546	7024098166036148	Getting_Started_autogen/timestamp	852ca7d8077525b0
+4	546	7024098166036148	Getting_Started_autogen/mocs_compilation.cpp	852ca7d8077525b0
+4	546	7024098166036148	F:/OneDrive/02_Study/QT/QT6/build-Getting_Started-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/Getting_Started_autogen/timestamp	852ca7d8077525b0
+4	546	7024098166036148	F:/OneDrive/02_Study/QT/QT6/build-Getting_Started-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/Getting_Started_autogen/mocs_compilation.cpp	852ca7d8077525b0
+553	1482	7024098176190892	CMakeFiles/Getting_Started.dir/main.cpp.obj	590e4696391945ed
+547	1537	7024098176733785	CMakeFiles/Getting_Started.dir/Getting_Started_autogen/mocs_compilation.cpp.obj	b3a90ce1f88297c2
+550	1538	7024098176743395	CMakeFiles/Getting_Started.dir/test.cpp.obj	b21174e82b09d80
+1538	1623	7024098177565784	Getting_Started.exe	ecbf0e4a9eeeb7e7

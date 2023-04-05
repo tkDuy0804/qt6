@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-211f1ca517a9d9e07e45.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Getting_Started",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Getting_Started::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Getting_Started-Debug-ca183bbef6a7a0840892.json",
+					"name" : "Getting_Started",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Getting_Started_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Getting_Started_autogen-Debug-2cf114edad8a6d670320.json",
+					"name" : "Getting_Started_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Getting_Started_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Getting_Started_autogen_timestamp_deps-Debug-2ec7cd3f4232458038fa.json",
+					"name" : "Getting_Started_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/OneDrive/02_Study/QT/QT6/build-Getting_Started-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+		"source" : "F:/OneDrive/02_Study/QT/QT6/Getting_Started"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
