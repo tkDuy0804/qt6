@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-30c1cd1da7f43e31ffe4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Signal_And_Slot",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Signal_And_Slot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Signal_And_Slot-Debug-ad303408047d7e2c855b.json",
+					"name" : "Signal_And_Slot",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Signal_And_Slot_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Signal_And_Slot_autogen-Debug-ce2ee535d5991116410f.json",
+					"name" : "Signal_And_Slot_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Signal_And_Slot_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Signal_And_Slot_autogen_timestamp_deps-Debug-e9cab41e2b0ec7ae991c.json",
+					"name" : "Signal_And_Slot_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/OneDrive/02_Study/QT/QT6/QT6_3_35_Signal_And_Slot/build-Signal_And_Slot-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+		"source" : "F:/OneDrive/02_Study/QT/QT6/QT6_3_35_Signal_And_Slot/Signal_And_Slot"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

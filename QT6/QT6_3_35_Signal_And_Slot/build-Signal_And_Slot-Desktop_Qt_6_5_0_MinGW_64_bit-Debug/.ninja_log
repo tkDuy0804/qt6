@@ -1,0 +1,9 @@
+# ninja log v5
+1	568	7031064822557707	Signal_And_Slot_autogen/timestamp	88617b04c4eecdfd
+1	568	7031064822557707	Signal_And_Slot_autogen/mocs_compilation.cpp	88617b04c4eecdfd
+1	568	7031064822557707	F:/OneDrive/02_Study/QT/QT6/QT6_3_35_Signal_And_Slot/build-Signal_And_Slot-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/Signal_And_Slot_autogen/timestamp	88617b04c4eecdfd
+1	568	7031064822557707	F:/OneDrive/02_Study/QT/QT6/QT6_3_35_Signal_And_Slot/build-Signal_And_Slot-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/Signal_And_Slot_autogen/mocs_compilation.cpp	88617b04c4eecdfd
+572	1625	7031064833901242	CMakeFiles/Signal_And_Slot.dir/main.cpp.obj	5b39dbf0c27b3536
+570	1628	7031064833931153	CMakeFiles/Signal_And_Slot.dir/Signal_And_Slot_autogen/mocs_compilation.cpp.obj	f2441c28a6b7c83
+575	1639	7031064834040788	CMakeFiles/Signal_And_Slot.dir/test.cpp.obj	84a46251854f9221
+1639	1747	7031064835109139	Signal_And_Slot.exe	f530a48a40b1bce4
