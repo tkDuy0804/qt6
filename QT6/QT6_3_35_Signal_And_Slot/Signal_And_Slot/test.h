@@ -1,4 +1,4 @@
-    #ifndef TEST_H
+#ifndef TEST_H
 #define TEST_H
 
 #include <QObject>
@@ -11,21 +11,24 @@ class Test : public QObject
 
 public:
     explicit Test(QObject *parent = nullptr);
-    ~Test();
+    ~Test(void);
 
-    void testing();
+    void sendSignalInt(uint32_t int_signal);
+    void sendSignalString(QString string_signal);
 
 signals:
     /* Always public */
     /* Always defined */
     /* Never implimented */
-    void alarm(QString noise);
+    void signalInt(uint32_t signal);
+    void signalString(QString signal);
 
 public slots:
     /* Can be public, private, protected */
     /* Always defined and implimented */
     /* Should match the signal */
-    void wake(QString noise);
+    void receiveSignalInt(uint32_t signal);
+    void receiveSignalString(QString signal);
 };
 
 #endif // TEST_H

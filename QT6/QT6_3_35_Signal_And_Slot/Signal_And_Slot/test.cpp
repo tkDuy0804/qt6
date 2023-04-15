@@ -5,19 +5,27 @@ Test::Test(QObject *parent) : QObject(parent)
     qInfo() << this << "Constructed";
 }
 
-Test::~Test()
+Test::~Test(void)
 {
     qInfo() << this << "Deconstructed";
 }
 
-void Test::testing()
+void Test::sendSignalInt(uint32_t int_signal)
 {
-    QString noise = "WAKE UP!!!!";
-    emit alarm(noise);
-
+    emit signalInt(int_signal);
 }
 
-void Test::wake(QString noise)
+void Test::sendSignalString(QString string_signal)
 {
-    qInfo() << "From" << sender() << noise;
+    emit signalString(string_signal);
+}
+
+void Test::receiveSignalInt(uint32_t signal)
+{
+    qInfo() << "From" << sender() << signal;
+}
+
+void Test::receiveSignalString(QString signal)
+{
+    qInfo() << "From" << sender() << signal;
 }
