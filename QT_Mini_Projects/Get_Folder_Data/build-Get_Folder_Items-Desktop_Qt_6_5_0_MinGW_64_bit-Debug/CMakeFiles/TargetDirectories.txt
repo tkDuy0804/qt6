@@ -1,0 +1,9 @@
+F:/OneDrive/02_Study/QT/QT_Mini_Projects/Get_Folder_Data/build-Get_Folder_Items-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/Get_Folder_Items.dir
+F:/OneDrive/02_Study/QT/QT_Mini_Projects/Get_Folder_Data/build-Get_Folder_Items-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/OneDrive/02_Study/QT/QT_Mini_Projects/Get_Folder_Data/build-Get_Folder_Items-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/OneDrive/02_Study/QT/QT_Mini_Projects/Get_Folder_Data/build-Get_Folder_Items-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+F:/OneDrive/02_Study/QT/QT_Mini_Projects/Get_Folder_Data/build-Get_Folder_Items-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+F:/OneDrive/02_Study/QT/QT_Mini_Projects/Get_Folder_Data/build-Get_Folder_Items-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+F:/OneDrive/02_Study/QT/QT_Mini_Projects/Get_Folder_Data/build-Get_Folder_Items-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+F:/OneDrive/02_Study/QT/QT_Mini_Projects/Get_Folder_Data/build-Get_Folder_Items-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/Get_Folder_Items_autogen_timestamp_deps.dir
+F:/OneDrive/02_Study/QT/QT_Mini_Projects/Get_Folder_Data/build-Get_Folder_Items-Desktop_Qt_6_5_0_MinGW_64_bit-Debug/CMakeFiles/Get_Folder_Items_autogen.dir

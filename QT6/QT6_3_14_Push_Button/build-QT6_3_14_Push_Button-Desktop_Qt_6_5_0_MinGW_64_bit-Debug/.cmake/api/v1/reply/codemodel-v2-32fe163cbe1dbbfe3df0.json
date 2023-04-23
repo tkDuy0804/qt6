@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8ec1b306e26079d21d33.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QT6_3_14_Push_Button",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QT6_3_14_Push_Button::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT6_3_14_Push_Button-Debug-d0e32825226ecf46c3f0.json",
+					"name" : "QT6_3_14_Push_Button",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT6_3_14_Push_Button_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT6_3_14_Push_Button_autogen-Debug-65449129a6b4034d604e.json",
+					"name" : "QT6_3_14_Push_Button_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QT6_3_14_Push_Button_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QT6_3_14_Push_Button_autogen_timestamp_deps-Debug-fbfec8467d098fa64e8e.json",
+					"name" : "QT6_3_14_Push_Button_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/OneDrive/02_Study/QT/QT6/build-QT6_3_14_Push_Button-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+		"source" : "F:/OneDrive/02_Study/QT/QT6/QT6_3_14_Push_Button"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
